@@ -1,6 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarishenrique&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarishenrique&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarishenrique&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarishenrique&langs_count=8&theme=merko)
 
 <!--
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tarishenrique)](https://github.com/anuraghazra/github-readme-stats)
